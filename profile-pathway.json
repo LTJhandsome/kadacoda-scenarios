@@ -95,7 +95,7 @@
       {
         "title": "myTestScenario",
         "description": "it is test scenario",
-        "id": "mytest-scenario"
+        "id": "myTest-scenario"
       }
     ]
   }
