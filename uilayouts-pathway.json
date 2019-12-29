@@ -38,6 +38,12 @@
         "description": "Learn how to add the Visualise Tab",
         "pathway_id": "scenario-examples",
         "course_id": "visualise-docker"
+      },
+      {
+        "title": "myTestScenario",
+        "description": "it is test scenario",
+        "pathway_id": "scenario-examples",
+        "course_id": "myTest-scenario"
       }
     ]
   }
