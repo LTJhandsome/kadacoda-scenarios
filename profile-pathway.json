@@ -91,6 +91,11 @@
         "title": "Credit where credit due",
         "description": "Possible ways to provide credit for the content or ideas within the scenario",
         "id": "credit-where-credit-due"
+      },
+      {
+        "title": "myTestScenario",
+        "description": "it is test scenario",
+        "id": "mytest-scenario"
       }
     ]
   }
