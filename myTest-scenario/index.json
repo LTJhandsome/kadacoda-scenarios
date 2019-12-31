@@ -2,7 +2,7 @@
   "title": "myTestScenario",
   "description": "it is test scenario",
   "difficulty": "Beginner",
-  "time": "7",
+  "time": "8",
   "details": {
     "steps": [
       {
@@ -28,7 +28,8 @@
   "environment": {
     "dashboards": [{"name": "Tab Name", "port": 80}, {"name": "Tab Name", "port": 8080}],
     "uilayout": "terminal-iframe",
-    "uimessage1": "在这里编码吧"
+    "uimessage1": "在这里编码吧",
+    "terminals": [{"name": "Docker Stats", "command": "docker stats", "target": "host01"}]
   },
   "backend": {
     "imageid": "python"
