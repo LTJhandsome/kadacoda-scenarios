@@ -5,7 +5,7 @@ This allows the user to keep a consistent view and allow the steps to explain ac
 <pre>
 "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "URL", "href": "https://www.google.co.uk"},
+    "dashboards": [{"name": "URL", "href": "https://www.baidu.com"},
         {"name": "Port 80", "port": 80},
         {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}],
     "uilayout": "terminal-iframe"
