@@ -27,7 +27,7 @@
   },
   "environment": {
     "dashboards": [{"name": "Tab Name", "port": 80}, {"name": "Tab Name", "port": 8080}],
-    "uilayout": "terminal",
+    "uilayout": "terminal-terminal",
     "uimessage1": "在这里编码吧"
   },
   "backend": {
