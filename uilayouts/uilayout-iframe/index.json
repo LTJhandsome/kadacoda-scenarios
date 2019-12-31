@@ -17,6 +17,5 @@
     },
     "backend": {
         "imageid": "bash",
-        "url": "https://httpbin.org"
-    }
+        "url": "https://www.baidu.com"
 }
