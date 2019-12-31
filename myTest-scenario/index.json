@@ -2,7 +2,7 @@
   "title": "myTestScenario",
   "description": "it is test scenario",
   "difficulty": "Beginner",
-  "time": "3",
+  "time": "4",
   "details": {
     "steps": [
       {
@@ -27,10 +27,10 @@
   },
   "environment": {
     "dashboards": [{"name": "Tab Name", "port": 80}, {"name": "Tab Name", "port": 8080}],
-    "uilayout": "editor-terminal",
+    "uilayout": "terminal",
     "uimessage1": "在这里编码吧"
   },
   "backend": {
-    "imageid": "go"
+    "imageid": "python"
   }
 }
