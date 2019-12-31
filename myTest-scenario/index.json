@@ -2,7 +2,7 @@
   "title": "myTestScenario",
   "description": "it is test scenario",
   "difficulty": "Beginner",
-  "time": "2",
+  "time": "3",
   "details": {
     "steps": [
       {
@@ -31,6 +31,6 @@
     "uimessage1": "在这里编码吧"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "go"
   }
 }
