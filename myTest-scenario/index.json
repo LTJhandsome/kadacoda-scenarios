@@ -2,7 +2,7 @@
   "title": "myTestScenario",
   "description": "it is test scenario",
   "difficulty": "Beginner",
-  "time": "6",
+  "time": "7",
   "details": {
     "steps": [
       {
@@ -27,7 +27,7 @@
   },
   "environment": {
     "dashboards": [{"name": "Tab Name", "port": 80}, {"name": "Tab Name", "port": 8080}],
-    "uilayout": "editor-terminal-split",
+    "uilayout": "editor-iframe",
     "uimessage1": "在这里编码吧"
   },
   "backend": {
